@@ -1,0 +1,34 @@
+{
+    "articles": [
+        {
+            "id": "1",
+            "title": "A Year After the School Shooting That Was Supposed to Change Everything",
+            "img": "https://static01.nyt.com/images/2019/02/14/us/14PARKLAND-dipych/14PARKLAND-dipych-threeByTwoLargeAt2X.jpg?quality=75&auto=webp&disable=upscale&width=1620"
+        },
+        {
+            "id": "2",
+            "title": "Fence, Steel Slats or ‘Whatever You Want to Call It’: Trump’s Words on the Wall",
+            "img": "https://static01.nyt.com/images/2019/02/13/upshot/wall-fence-whatever-trump-border-words-1550008806280/wall-fence-whatever-trump-border-words-1550008806280-threeByTwoLargeAt2X-v3.png?quality=75&auto=webp&disable=upscale&width=1620"
+        },
+        {
+            "id": "3",
+            "title": "Former Air Force Intelligence Agent Charged With Spying for Iran",
+            "img": "https://static01.nyt.com/images/2019/02/14/us/politics/14dc-intel/14dc-intel-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale"
+        },
+        {
+            "id": "4",
+            "title": "How to Cut U.S. Emissions Faster? Do What These Countries Are Doing",
+            "img": "https://www.nytimes.com/interactive/2019/02/13/climate/cut-us-emissions-with-policies-from-other-countries.html"
+        },
+        {
+            "id": "5",
+            "title": "The Lonely Life of a Black Talent Agent in Hollywood",
+            "img": "https://static01.nyt.com/images/2019/02/17/arts/17agents-diversityGRID/17agents-diversityGRID-threeByTwoLargeAt2X.jpg?quality=75&auto=webp&disable=upscale&width=600"
+        },
+        {
+            "id": "6",
+            "title": "Flashing Yellow Light in France",
+            "img": "https://static01.nyt.com/images/2019/02/11/opinion/11france-edt/merlin_150547944_7863a2b0-e025-41c5-b161-232d3315f337-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale"
+        }
+    ]
+}
